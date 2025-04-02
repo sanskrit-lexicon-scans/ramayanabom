@@ -12,7 +12,7 @@ PDF sources: courtesy Nagabhushana Rao K.
 ## app1
 Provides access to pages based on 3 or 4 numbers:
 * 3 numbers: Kāṇḍa, Sarga, verse
-  * https://sanskrit-lexicon-scans.github.io/ramayanabom/app1/N,N,N
+  * https://sanskrit-lexicon-scans.github.io/ramayanabom/app1/?N,N,N
 * 4 numbers: Kāṇḍa, Sarga, prakṣipta-sarga, verse
 
-https://sanskrit-lexicon-scans.github.io/ramayanabom/app1/N,N,N,N
+https://sanskrit-lexicon-scans.github.io/ramayanabom/app1/?N,N,N,N
